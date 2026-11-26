@@ -1,0 +1,6 @@
+{
+  "name": "منچ بلوتوثی",
+  "description": "بازی منچ بلوتوثی چندنفره با تخته الماسی سه‌بعدی معبد، شخصیت‌های کارتونی و استیکرهای زنده",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">منچ بلوتوثی</string>
+    <string name="app_subtitle">معبد افسانه‌ای • چندنفره بلوتوثی</string>
+    <string name="menu_bluetooth_play">بازی بلوتوثی با دوستان</string>
+    <string name="menu_vs_bots">بازی با ربات هوشمند</string>
+    <string name="menu_pass_and_play">چندنفره روی یک گوشی</string>
+    <string name="menu_profile">پروفایل و قاب آواتار</string>
+    <string name="bt_host_title">ساخت اتاق (میزبان)</string>
+    <string name="bt_join_title">ورود به اتاق (جستجو)</string>
+    <string name="bt_discoverable">قابل مشاهده کردن گوشی</string>
+    <string name="bt_scan_devices">جستجوی دستگاه‌های اطراف</string>
+    <string name="bt_start_match">شروع بازی</string>
+    <string name="bt_permission_needed">برای اتصال بلوتوثی به دوستان، دسترسی بلوتوث را فعال کنید.</string>
+    <string name="bt_grant_permission">تایید دسترسی بلوتوث</string>
+    <string name="bt_unavailable">بلوتوث در این دستگاه در دسترس نیست. می‌توانید آفلاین بازی کنید.</string>
+    <string name="dice_roll">پرتاب تاس</string>
+    <string name="your_turn">نوبت شماست!</string>
+    <string name="select_pawn">یک مهره را انتخاب کنید</string>
+    <string name="no_moves">حرکتی وجود ندارد!</string>
+    <string name="bonus_roll">جایزه! دوباره تاس بیندازید</string>
+    <string name="back_to_menu">بازگشت به منو</string>
+    <string name="play_again">بازی مجدد</string>
+    <string name="chat_title">پیام سریع و استیکر</string>
+    <string name="sound_toggle">صدا</string>
+    <string name="settings_title">تنظیمات</string>
+    <string name="exit_match_confirm">خروج از بازی فعلی؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+</resources>
